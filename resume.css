@@ -1,0 +1,50 @@
+#topline{
+    border-bottom: 2px solid gray;
+    width:100%;
+}
+
+#email{
+    text-decoration: none;
+    
+}
+
+#fleft{ 
+    float: left;
+    clear: both;
+    width: 50%;
+}
+
+
+.educ{ 
+    position: relative;
+    float: right;
+    margin-top: -230px;
+    width:80%;
+    text-align: left;
+    
+}
+
+.edu{ 
+    text-align: center;
+    height:250px;
+    width: 230px;
+    border-right: 2px solid black;
+    clear: both;
+}
+ 
+
+
+img{
+     -webkit-transform: rotate(-4deg);
+     position: absolute;
+     top:10px;
+     right:25px;
+}
+
+#ref1{
+    float:left;
+}
+
+#ref2{
+    float: right
+}
